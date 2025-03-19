@@ -1,0 +1,12 @@
+.card{
+    height: 400px;
+    width: 250px;
+    border: 2px solid rgb(193, 185, 185);
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px gray;
+    border-radius: 5px;
+}
+.card img{
+    height: 65%;
+    width: 250px;
+}

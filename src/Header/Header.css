@@ -1,0 +1,21 @@
+.header-section{
+    display: flex;
+    list-style: none;
+    height: 100px;
+    /* width: 1000px; */
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+}
+li{
+    padding: 10px;
+    font-size: 20px;
+
+}
+.header-section input{
+    padding: 10px 80px 10px 10px;
+    border-radius: 5px;
+}
+.header-section input::placeholder{
+    font-size: 20px;
+}
